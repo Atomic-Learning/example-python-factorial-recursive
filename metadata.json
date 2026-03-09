@@ -1,0 +1,24 @@
+{
+    "title": "Example: A Recursive Factorial Function in Python",
+    "slug": "example-python-factorial-recursive",
+    "description": "Example page showing a recursive Python implementation of factorial, including base case and recursive step.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "python-defining-functions",
+        "programming-recursive-functions",
+        "python-conditionals-if-elif-else",
+        "python-arithmetic-operators",
+        "maths-factorial-recursion"
+    ],
+    "related": [
+        "exercise-python-recursive-fibonacci",
+        "scipy-factorial",
+        "maths-factorial"
+    ]
+}
